@@ -1,0 +1,41 @@
+_repo: Diseases-of-cattle-sheep-goats-and-swine_73019
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Dollar, Jno. A. W. (John A. W.)
+    aliases:
+    - Dollar, John A. W.
+    - Dollar, John Archibald Watt
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '56913'
+    url: http://www.gutenberg.org/2009/agents/56913
+  - agent_name: Moussu, G. (Gustave)
+    alias: Moussu, Gustave
+    birthdate: 1864
+    deathdate: 1945
+    gutenberg_agent_id: '56912'
+    url: http://www.gutenberg.org/2009/agents/56912
+    wikipedia: https://fr.wikipedia.org/wiki/Gustave_Moussu
+description: ''
+gutenberg_issued: '2024-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73019'
+language: en
+pgterms:marc904: https://archive.org/details/diseasesofcattle00mous
+pgterms:marc905: 20190505195321moussu
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aChicago :$bAmerican Veterinary Pub.Co., $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Veterinary medicine'
+- !lcc 'SF'
+- GITenberg
+title: Diseases of cattle, sheep, goats and swine
+url: http://www.gutenberg.org/ebooks/73019
