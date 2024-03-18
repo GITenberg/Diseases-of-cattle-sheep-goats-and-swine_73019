@@ -1,5 +1,8 @@
 _repo: Diseases-of-cattle-sheep-goats-and-swine_73019
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73019-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Dollar, Jno. A. W. (John A. W.)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56912
     wikipedia: https://fr.wikipedia.org/wiki/Gustave_Moussu
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73019#Diseases-of-cattle-sheep-goats-and-swine
 gutenberg_issued: '2024-02-22'
 gutenberg_type: Text
 identifiers:
